@@ -1,0 +1,15 @@
+.button {
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: center;
+    background-color: #009da5;
+    width: 250px;
+    padding: 10px;
+    border-radius: 4px;
+    overflow: hidden; 
+  }
+  
+  .button a {
+    color: #fff;
+    text-decoration:  none;
+  }
